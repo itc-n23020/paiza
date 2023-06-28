@@ -1,6 +1,6 @@
 # paiza
 paizaの提出場所
-
+プログラミングで彼女を作る
 [つりめ](./tsurime.py)
 [ショートヘア](./shorthair.py)
 [セーラー服](./se-ra-.py)
