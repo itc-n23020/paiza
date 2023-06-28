@@ -8,3 +8,4 @@ paizaの提出場所
 [カーディガン](./ka-dhigann.py)
 [ロングヘアー](./longhair.py)
 [ポニーテール](./ponytail.py)
+[ツインテール](./twintail.py)
