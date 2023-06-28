@@ -1,3 +1,9 @@
+def count_occurrences(string, pattern):
+    count = string.count(pattern)
+    return count
+
+
 S = input()
-count = S.count("cat")
+pattern = "cat"
+count = count_occurrences(S, pattern)
 print(count)
