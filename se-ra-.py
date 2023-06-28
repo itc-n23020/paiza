@@ -1,4 +1,9 @@
+def join_words(words):
+    result = "_".join(words)
+    return result
+
+
 n = int(input())
 words = [input() for _ in range(n)]
-result = "_".join(words)
-print(result)
+output = join_words(words)
+print(output)
