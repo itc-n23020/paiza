@@ -1,6 +1,9 @@
 # paiza
 paizaの提出場所
 
+
+![コードガールコレクション](image/paiza 06-28.png)
+
 # 4.恋するハッカソン
 
 [ショートヘアー](./shorthair4.py)
