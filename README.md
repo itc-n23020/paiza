@@ -17,6 +17,10 @@ paizaの提出場所
 
 [めがね](./megane4.py)
 
+[Cute衣装](./cute4.py)
+
+[Sexy衣装](./sexy4.py)
+
 # 5.プログラミングで彼女を作る
 
 [つりめ](./tsurime.py)
