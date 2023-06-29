@@ -6,39 +6,39 @@ paizaの提出場所
 
 # 4.恋するハッカソン
 
-[ショートヘアー](./shorthair4.py)
+[ショートヘアー](koisuruhakkasonn/shorthair4.py)
 
-[ロングヘアー](./longhair4.py)
+[ロングヘアー](koisuruhakkasonn/longhair4.py)
 
-[ポニテール](./ponytail4.py)
+[ポニテール](koisuruhakkasonn/ponytail4.py)
 
-[ツインテール](./twintair4.py)
+[ツインテール](koisuruhakkasonn/twintair4.py)
 
-[たれ目](./tareme4.py)
+[たれ目](koisuruhakkasonn/tareme4.py)
 
-[つり目](./tsurime4.py)
+[つり目](koisuruhakkasonn/tsurime4.py)
 
-[めがね](./megane4.py)
+[めがね](koisuruhakkasonn/megane4.py)
 
-[Cute衣装](./cute4.py)
+[Cute衣装](koisuruhakkasonn/cute4.py)
 
-[Sexy衣装](./sexy4.py)
+[Sexy衣装](koisuruhakkasonn/sexy4.py)
 
 # 5.プログラミングで彼女を作る
 
-[つりめ](./tsurime.py)
+[つりめ](puroguraminngu/tsurime.py)
 
-[ショートヘア](./shorthair.py)
+[ショートヘア](puroguraminngu/shorthair.py)
 
-[セーラー服](./se-ra-.py)
+[セーラー服](puroguraminngu/se-ra-.py)
 
-[猫ミミ](./nekomimi.py)
+[猫ミミ](puroguraminngu/nekomimi.py)
 
-[カーディガン](./ka-dhigann.py)
+[カーディガン](puroguraminngu/ka-dhigann.py)
 
-[ロングヘアー](./longhair.py)
+[ロングヘアー](puroguraminngu/longhair.py)
 
-[ポニーテール](./ponytail.py)
+[ポニーテール](puroguraminngu/ponytail.py)
 
-[ツインテール](./twintail.py)
+[ツインテール](puroguraminngu/twintail.py)
 
