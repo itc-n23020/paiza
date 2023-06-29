@@ -2,7 +2,7 @@
 paizaの提出場所
 
 
-![コードガールコレクション](image/paiza 06-28.png)
+![コードガールコレクション](image/codegirl.png)
 
 # 4.恋するハッカソン
 
